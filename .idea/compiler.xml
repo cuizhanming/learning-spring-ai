@@ -1,0 +1,734 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-ai-starter-vector-store-aws-opensearch" />
+        <module name="spring-ai-autoconfigure-vector-store-pgvector" />
+        <module name="spring-ai-starter-model-mistral-ai" />
+        <module name="spring-ai-alibaba-prompt-example" />
+        <module name="spring-ai-alibaba-structured-example" />
+        <module name="mcp-webflux-client-example" />
+        <module name="spring-ai-starter-vector-store-couchbase" />
+        <module name="dashscope-audio" />
+        <module name="rag-milvus-example" />
+        <module name="spring-ai-alibaba-starter-document-reader-onenote" />
+        <module name="ollama-chat" />
+        <module name="spring-ai-starter-vector-store-elasticsearch" />
+        <module name="spring-ai-mariadb-store" />
+        <module name="ai-mcp-github" />
+        <module name="spring-ai-mcp-server-webmvc-spring-boot-starter" />
+        <module name="spring-ai-autoconfigure-vector-store-cassandra" />
+        <module name="spring-ai-weaviate-store" />
+        <module name="mcp-webflux-server-example" />
+        <module name="spring-ai-alibaba-graph-example" />
+        <module name="spring-ai-starter-model-deepseek" />
+        <module name="spring-ai-autoconfigure-retry" />
+        <module name="spring-ai-coherence-store" />
+        <module name="spring-ai-autoconfigure-vector-store-gemfire" />
+        <module name="spring-ai-alibaba-starter-document-reader-youtube" />
+        <module name="spring-ai-alibaba-starter-nacos-prompt" />
+        <module name="spring-ai-oci-genai" />
+        <module name="spring-ai-alibaba-starter-document-reader-arxiv" />
+        <module name="spring-ai-pgvector-store" />
+        <module name="spring-ai-alibaba-starter-tool-calling-serpapi" />
+        <module name="spring-ai-alibaba-starter-document-parser-multi-modality" />
+        <module name="spring-ai-transformers" />
+        <module name="spring-ai-autoconfigure-model-zhipuai" />
+        <module name="spring-ai-retry" />
+        <module name="vector-oceanbase-example" />
+        <module name="spring-ai-spring-boot-docker-compose" />
+        <module name="spring-ai-alibaba-starter-nacos2-mcp-client" />
+        <module name="openai-image" />
+        <module name="qwq-chat" />
+        <module name="spring-ai-vertex-ai-gemini" />
+        <module name="spring-ai-examples-petclinic" />
+        <module name="spring-ai-alibaba-starter-tool-calling-larksuite" />
+        <module name="spring-ai-starter-mcp-server-webflux" />
+        <module name="spring-ai-alibaba-starter-document-reader-mysql" />
+        <module name="spring-ai-alibaba-starter-document-parser-bshtml" />
+        <module name="mcp-nacos-dynamic-example" />
+        <module name="spring-ai-autoconfigure-model-deepseek" />
+        <module name="spring-ai-jsoup-document-reader" />
+        <module name="openai-chat" />
+        <module name="spring-ai-alibaba-starter-tool-calling-baidusearch" />
+        <module name="spring-ai-alibaba-starter-tool-calling-crawler" />
+        <module name="spring-ai-alibaba-mcp-nacos" />
+        <module name="spring-ai-autoconfigure-model-vertex-ai" />
+        <module name="mcp-stdio-server-example" />
+        <module name="spring-ai-starter-model-minimax" />
+        <module name="spring-ai-autoconfigure-model-azure-openai" />
+        <module name="spring-ai-starter-model-oci-genai" />
+        <module name="spring-ai-starter-vector-store-weaviate" />
+        <module name="spring-ai-alibaba-deepresearch" />
+        <module name="spring-ai-alibaba-starter-tool-calling-toutiaonews" />
+        <module name="spring-ai-alibaba-studio" />
+        <module name="spring-ai-alibaba-starter-document-reader-huggingface-fs" />
+        <module name="spring-ai-azure-store" />
+        <module name="spring-ai-typesense-store" />
+        <module name="aiz-mcp-server" />
+        <module name="spring-ai-starter-vector-store-oracle" />
+        <module name="spring-ai-autoconfigure-mcp-server" />
+        <module name="spring-ai-alibaba-redis-memory" />
+        <module name="spring-ai-starter-vector-store-neo4j" />
+        <module name="spring-ai-alibaba-starter-document-reader-gitlab" />
+        <module name="spring-ai-mistral-ai" />
+        <module name="spring-ai-starter-vector-store-qdrant" />
+        <module name="mcp-stdio-client-example" />
+        <module name="spring-ai-starter-vector-store-chroma" />
+        <module name="spring-ai-alibaba-starter-tool-calling-kuaidi100" />
+        <module name="spring-ai-mcp-client-webflux-spring-boot-starter" />
+        <module name="spring-ai-mcp-server-webflux-spring-boot-starter" />
+        <module name="spring-ai-minimax" />
+        <module name="spring-ai-autoconfigure-vector-store-neo4j" />
+        <module name="spring-ai-alibaba-starter-document-reader-encent-cos" />
+        <module name="spring-ai-alibaba-starter-document-parser-yaml" />
+        <module name="multi-model-chat" />
+        <module name="spring-ai-alibaba-starter-document-parser-markdown" />
+        <module name="spring-ai-alibaba-starter-document-reader-gpt-repo" />
+        <module name="spring-ai-alibaba-starter-dashscope" />
+        <module name="spring-ai-alibaba-starter-nacos-mcp-server" />
+        <module name="spring-ai-starter-vector-store-mongodb-atlas" />
+        <module name="spring-ai-alibaba-starter-tool-calling-jsonprocessor" />
+        <module name="spring-ai-alibaba-starter-tool-calling-dingtalk" />
+        <module name="spring-ai-starter-model-chat-memory" />
+        <module name="spring-ai-alibaba-text-summarizer-example" />
+        <module name="spring-ai-alibaba-starter-arms-observation" />
+        <module name="spring-ai-anthropic" />
+        <module name="spring-ai-docs" />
+        <module name="spring-ai-azure-openai" />
+        <module name="spring-ai-alibaba-nl2sql-management" />
+        <module name="spring-ai-starter-model-chat-memory-repository-jdbc" />
+        <module name="spring-ai-starter-vector-store-typesense" />
+        <module name="spring-ai-alibaba-starter-tool-calling-time" />
+        <module name="spring-ai-alibaba-starter-document-parser-tika" />
+        <module name="spring-ai-model-chat-memory-repository-jdbc" />
+        <module name="spring-ai-autoconfigure-model-bedrock-ai" />
+        <module name="spring-ai-alibaba-jmanus" />
+        <module name="spring-ai-cassandra-store" />
+        <module name="spring-ai-alibaba-starter-tool-calling-duckduckgo" />
+        <module name="spring-ai-alibaba-autoconfigure-memory" />
+        <module name="spring-ai-spring-cloud-bindings" />
+        <module name="spring-ai-starter-vector-store-gemfire" />
+        <module name="dashscope-multi-model" />
+        <module name="spring-ai-openai" />
+        <module name="spring-ai-alibaba-autoconfigure-dashscope" />
+        <module name="spring-ai-alibaba-autoconfigure-nacos-mcp-client" />
+        <module name="spring-ai-starter-mcp-client-webflux" />
+        <module name="spring-ai-couchbase-store" />
+        <module name="spring-ai-milvus-store" />
+        <module name="spring-ai-alibaba-starter-tool-calling-alitranslate" />
+        <module name="spring-ai-alibaba-starter-document-reader-bilibili" />
+        <module name="spring-ai-alibaba-starter-tool-calling-googletranslate" />
+        <module name="spring-ai-alibaba-starter-opensearch-store" />
+        <module name="spring-ai-integration-tests" />
+        <module name="spring-ai-starter-model-bedrock-converse" />
+        <module name="spring-ai-alibaba-starter-document-parser-pdf-tables" />
+        <module name="spring-ai-alibaba-starter-document-reader-mbox" />
+        <module name="spring-ai-starter-model-zhipuai" />
+        <module name="spring-ai-mcp-client-spring-boot-starter" />
+        <module name="spring-ai-starter-model-ollama" />
+        <module name="spring-ai-pdf-document-reader" />
+        <module name="spring-ai-autoconfigure-model-openai" />
+        <module name="spring-ai-mongodb-atlas-store" />
+        <module name="spring-ai-markdown-document-reader" />
+        <module name="spring-ai-postgresml" />
+        <module name="spring-ai-tika-document-reader" />
+        <module name="spring-ai-examples-vaadin" />
+        <module name="spring-ai-alibaba-sql-example" />
+        <module name="spring-ai-alibaba-starter-document-reader-github" />
+        <module name="spring-ai-autoconfigure-model-chat-client" />
+        <module name="spring-ai-opensearch-store" />
+        <module name="spring-ai-autoconfigure-vector-store-milvus" />
+        <module name="spring-ai-alibaba-starter-document-reader-gitbook" />
+        <module name="spring-ai-alibaba-graph-core" />
+        <module name="spring-ai-autoconfigure-model-transformers" />
+        <module name="spring-ai-bedrock-converse" />
+        <module name="spring-ai-starter-vector-store-azure" />
+        <module name="spring-ai-alibaba-starter-document-reader-mongodb" />
+        <module name="ai-mcp-sqlite-chatbot (1) (com.alibaba.cloud.ai)" />
+        <module name="spring-ai-client-chat" />
+        <module name="spring-ai-starter-model-transformers" />
+        <module name="spring-ai-autoconfigure-vector-store-redis" />
+        <module name="spring-ai-commons" />
+        <module name="spring-ai-vertex-ai-embedding" />
+        <module name="spring-ai-alibaba-classification-grading-example" />
+        <module name="spring-ai-elasticsearch-store" />
+        <module name="spring-ai-model-chat-memory-repository-cassandra" />
+        <module name="spring-ai-starter-vector-store-redis" />
+        <module name="spring-ai-autoconfigure-mcp-client" />
+        <module name="spring-ai-autoconfigure-model-mistral-ai" />
+        <module name="spring-ai-autoconfigure-vector-store-azure" />
+        <module name="spring-ai-autoconfigure-vector-store-qdrant" />
+        <module name="spring-ai-starter-model-bedrock" />
+        <module name="spring-ai-test" />
+        <module name="spring-ai-alibaba-autoconfigure-arms-observation" />
+        <module name="observability-arms-example" />
+        <module name="spring-ai-autoconfigure-model-postgresml-embedding" />
+        <module name="spring-ai-autoconfigure-vector-store-chroma" />
+        <module name="spring-ai-autoconfigure-model-chat-memory" />
+        <module name="spring-ai-autoconfigure-vector-store-oracle" />
+        <module name="spring-ai-autoconfigure-model-huggingface" />
+        <module name="zhipuai-chat" />
+        <module name="ai-mcp-fileserver (2)" />
+        <module name="playground-flight-booking" />
+        <module name="spring-ai-autoconfigure-model-image-observation" />
+        <module name="spring-ai-examples-documentgpt" />
+        <module name="bailian-rag-knowledge" />
+        <module name="spring-ai-autoconfigure-model-oci-genai" />
+        <module name="spring-ai-alibaba-starter-nacos-mcp-client" />
+        <module name="spring-ai-alibaba-autoconfigure-nacos-mcp-server" />
+        <module name="spring-ai-autoconfigure-vector-store-mariadb" />
+        <module name="spring-ai-alibaba-starter-oceanbase-store" />
+        <module name="observability-example" />
+        <module name="spring-ai-starter-model-openai" />
+        <module name="spring-ai-alibaba-autoconfigure-nacos2-mcp-client" />
+        <module name="spring-ai-autoconfigure-model-minimax" />
+        <module name="spring-ai-alibaba-starter-tool-calling-bingsearch" />
+        <module name="spring-ai-alibaba-starter-document-reader-yuque" />
+        <module name="module-rag" />
+        <module name="spring-ai-autoconfigure-vector-store-weaviate" />
+        <module name="spring-ai-pinecone-store" />
+        <module name="spring-ai-alibaba-starter-tool-calling-sinanews" />
+        <module name="rag-elasticsearch-example" />
+        <module name="spring-ai-autoconfigure-model-chat-memory-repository-cassandra" />
+        <module name="spring-ai-alibaba-starter-analyticdb-store" />
+        <module name="spring-ai-ollama" />
+        <module name="spring-ai-alibaba-nacos-prompt-example" />
+        <module name="spring-ai-alibaba-starter-tool-calling-baidumap" />
+        <module name="rag-pgvector-example" />
+        <module name="spring-ai-alibaba-starter-nacos2-mcp-server" />
+        <module name="spring-ai-starter-model-azure-openai" />
+        <module name="spring-ai-starter-mcp-client" />
+        <module name="spring-ai-starter-model-chat-memory-repository-neo4j" />
+        <module name="spring-ai-starter-vector-store-pgvector" />
+        <module name="spring-ai-alibaba-graph-example (1)" />
+        <module name="spring-ai-starter-model-huggingface" />
+        <module name="spring-ai-alibaba-starter-tool-calling-youdaotranslate" />
+        <module name="spring-ai-autoconfigure-model-stability-ai" />
+        <module name="spring-ai-alibaba-starter-document-reader-poi" />
+        <module name="spring-ai-alibaba-starter-tool-calling-amap" />
+        <module name="spring-ai-alibaba-jdbc-memory" />
+        <module name="spring-ai-autoconfigure-model-chat-memory-repository-jdbc" />
+        <module name="spring-ai-starter-vector-store-milvus" />
+        <module name="spring-ai-alibaba-starter-memory" />
+        <module name="spring-ai-alibaba-more-platform-and-model-example" />
+        <module name="spring-ai-starter-model-stability-ai" />
+        <module name="spring-ai-autoconfigure-vector-store-mongodb-atlas" />
+        <module name="vector-simple-example" />
+        <module name="spring-ai-autoconfigure-model-chat-observation" />
+        <module name="spring-ai-autoconfigure-model-embedding-observation" />
+        <module name="spring-ai-starter-model-vertex-ai-gemini" />
+        <module name="spring-ai-vector-store" />
+        <module name="mcp-nacos-client-example" />
+        <module name="spring-ai-mcp" />
+        <module name="spring-ai-model" />
+        <module name="spring-ai-starter-model-anthropic" />
+        <module name="dashscope-image" />
+        <module name="spring-ai-alibaba-starter-tool-calling-microsofttranslate" />
+        <module name="spring-ai-alibaba-starter-memory-elasticsearch" />
+        <module name="spring-ai-autoconfigure-model-chat-memory-repository-neo4j" />
+        <module name="deepseek-chat" />
+        <module name="spring-ai-autoconfigure-vector-store-azure-cosmos-db" />
+        <module name="spring-ai-alibaba-starter-document-parser-bibtex" />
+        <module name="ai-mcp-sqlite (1) (com.alibaba.cloud.ai)" />
+        <module name="spring-ai-autoconfigure-vector-store-observation" />
+        <module name="spring-ai-alibaba-graph-studio" />
+        <module name="spring-ai-alibaba-starter-document-reader-tencent-cos" />
+        <module name="mcp-streamable-client-example" />
+        <module name="observationhandler-example" />
+        <module name="spring-ai-alibaba-starter-nl2sql" />
+        <module name="spring-ai-starter-model-chat-memory-repository-cassandra" />
+        <module name="spring-ai-hanadb-store" />
+        <module name="spring-ai-starter-vector-store-mariadb" />
+        <module name="spring-ai-starter-vector-store-opensearch" />
+        <module name="spring-ai-alibaba-starter-document-reader-sqlite" />
+        <module name="spring-ai-oracle-store" />
+        <module name="spring-ai-spring-boot-testcontainers" />
+        <module name="spring-ai-redis-store" />
+        <module name="spring-ai-alibaba-starter-document-reader-obsidian" />
+        <module name="ark-multi-model" />
+        <module name="spring-ai-autoconfigure-vector-store-couchbase" />
+        <module name="spring-ai-starter-vector-store-cassandra" />
+        <module name="bailian-agent" />
+        <module name="vector-redis-example" />
+        <module name="spring-ai-advisors-vector-store" />
+        <module name="dashscope-chat" />
+        <module name="spring-ai-autoconfigure-vector-store-pinecone" />
+        <module name="spring-ai-alibaba-nl2sql-common" />
+        <module name="spring-ai-autoconfigure-model-anthropic" />
+        <module name="spring-ai-alibaba-starter-document-reader-notion" />
+        <module name="spring-ai-huggingface" />
+        <module name="spring-ai-chroma-store" />
+        <module name="spring-ai-alibaba-starter-document-reader-elasticsearch" />
+        <module name="spring-ai-alibaba-starter-tair-store" />
+        <module name="spring-ai-autoconfigure-model-tool" />
+        <module name="spring-ai-alibaba-starter-tool-calling-common" />
+        <module name="spring-ai-alibaba-mcp-nacos2" />
+        <module name="mcp-nacos-registry-example" />
+        <module name="spring-ai-alibaba-starter-document-parser-apache-pdfbox" />
+        <module name="spring-ai-alibaba-autoconfigure-nacos-prompt" />
+        <module name="spring-ai-alibaba-core" />
+        <module name="spring-ai-alibaba-starter-tool-calling-sensitivefilter" />
+        <module name="spring-ai-alibaba-starter-tool-calling-weather" />
+        <module name="spring-ai-alibaba-nl2sql-chat" />
+        <module name="spring-ai-alibaba-starter-document-parser-directory" />
+        <module name="spring-ai-alibaba-text-classification-example" />
+        <module name="spring-ai-model-chat-memory-repository-neo4j" />
+        <module name="spring-ai-starter-vector-store-azure-cosmos-db" />
+        <module name="starter-stock-server" />
+        <module name="spring-ai-alibaba-starter-tool-calling-githubtoolkit" />
+        <module name="spring-ai-autoconfigure-model-ollama" />
+        <module name="spring-ai-starter-vector-store-pinecone" />
+        <module name="spring-ai-gemfire-store" />
+        <module name="spring-ai-starter-mcp-server" />
+        <module name="spring-ai-alibaba-starter-document-reader-email" />
+        <module name="spring-ai-starter-model-postgresml-embedding" />
+        <module name="spring-ai-autoconfigure-vector-store-elasticsearch" />
+        <module name="spring-ai-alibaba-starter-document-reader-chatgpt-data" />
+        <module name="spring-ai-alibaba-translate-example" />
+        <module name="spring-ai-alibaba-starter-tool-calling-yuque" />
+        <module name="spring-ai-rag" />
+        <module name="spring-ai-alibaba-starter-document-reader-larksuite" />
+        <module name="spring-ai-template-st" />
+        <module name="spring-ai-alibaba-starter-tool-calling-regex" />
+        <module name="spring-ai-autoconfigure-vector-store-typesense" />
+        <module name="spring-ai-starter-mcp-server-webmvc" />
+        <module name="spring-ai-alibaba-helloworld" />
+        <module name="spring-ai-azure-cosmos-db-store" />
+        <module name="ai-mcp-fileserver" />
+        <module name="spring-ai-stability-ai" />
+        <module name="spring-ai-alibaba-starter-tool-calling-baidutranslate" />
+        <module name="spring-ai-qdrant-store" />
+        <module name="spring-ai-alibaba-autoconfigure-nacos2-mcp-server" />
+        <module name="spring-ai-zhipuai" />
+        <module name="spring-ai-autoconfigure-vector-store-opensearch" />
+        <module name="spring-ai-alibaba-starter-tool-calling-tavilysearch" />
+        <module name="spring-ai-bedrock" />
+        <module name="spring-ai-starter-model-vertex-ai-embedding" />
+        <module name="spring-ai-neo4j-store" />
+        <module name="spring-ai-deepseek" />
+        <module name="spring-ai-mcp-server-spring-boot-starter" />
+        <module name="spring-ai-alibaba-chat-memory-example" />
+        <module name="spring-ai-alibaba-tool-calling-example" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="agentic-patterns" target="1.5" />
+      <module name="ai-mcp-brave" target="17" />
+      <module name="ai-mcp-brave-chatbot" target="17" />
+      <module name="ai-mcp-brave-starter" target="17" />
+      <module name="ai-mcp-fileserver (1)" target="17" />
+      <module name="ai-mcp-fileserver (2)" target="17" />
+      <module name="ai-mcp-sqlite" target="17" />
+      <module name="ai-mcp-sqlite-chatbot" target="17" />
+      <module name="ai-mdp-sqlite" target="1.5" />
+      <module name="ai-mdp-sqlite-chatbot" target="1.5" />
+      <module name="ai-openai-helloworld" target="17" />
+      <module name="ai-openai-reflection-example" target="17" />
+      <module name="arxiv-document-reader" target="17" />
+      <module name="bilibili-document-reader" target="17" />
+      <module name="chain-workflow" target="17" />
+      <module name="chatgpt-data-document-reader" target="17" />
+      <module name="document-parser-apache-pdfbox" target="17" />
+      <module name="document-parser-bibtex" target="17" />
+      <module name="document-parser-bshtml" target="17" />
+      <module name="document-parser-directory" target="17" />
+      <module name="document-parser-markdown" target="17" />
+      <module name="document-parser-multi-modality" target="17" />
+      <module name="document-parser-pdf-tables" target="17" />
+      <module name="document-parser-tika" target="17" />
+      <module name="documentgpt-spring-ai" target="1.5" />
+      <module name="email-document-reader" target="17" />
+      <module name="es-document-reader" target="17" />
+      <module name="evaluator-optimizer" target="17" />
+      <module name="feishu-document-reader" target="17" />
+      <module name="gitbook-document-reader" target="17" />
+      <module name="github-document-reader" target="17" />
+      <module name="gitlab-document-reader" target="17" />
+      <module name="gpt-repo-document-reader" target="17" />
+      <module name="huggingface-fs-document-reader" target="17" />
+      <module name="kotlin-function-callback" target="17" />
+      <module name="kotlin-hello-world" target="17" />
+      <module name="mbox-document-reader" target="17" />
+      <module name="mcp-annotations-server" target="17" />
+      <module name="mcp-client-starter" target="17" />
+      <module name="mcp-sampling-client" target="17" />
+      <module name="mcp-sampling-weather-server" target="17" />
+      <module name="mcp-server-starter" target="17" />
+      <module name="mcp-starter-default-client" target="17" />
+      <module name="mcp-starter-webflux-client" target="17" />
+      <module name="mcp-starter-webflux-server" target="1.5" />
+      <module name="mcp-stdio-client-exmaple" target="1.5" />
+      <module name="mcp-stdio-server-exmaple" target="1.5" />
+      <module name="mcp-stremable-client-example" target="17" />
+      <module name="mcp-stremable-client-exmaple" target="1.5" />
+      <module name="mcp-weather-server" target="17" />
+      <module name="mcp-weather-starter-webflux-server" target="17" />
+      <module name="mcp-weather-starter-webmvc-oauth2-server" target="17" />
+      <module name="mcp-weather-starter-webmvc-server" target="17" />
+      <module name="mcp-weather-stdio-server" target="17" />
+      <module name="mcp-webflux-client-exmaple" target="1.5" />
+      <module name="mongodb-document-reader" target="17" />
+      <module name="moonshot-chat" target="1.5" />
+      <module name="mysql-document-reader" target="17" />
+      <module name="nacos-dynamic-mcp-server-example" target="17" />
+      <module name="nacos-mcp-client-example" target="17" />
+      <module name="nacos-mcp-registry-example" target="17" />
+      <module name="notion-document-reader" target="17" />
+      <module name="obsidian-document-reader" target="17" />
+      <module name="onenote-document-reader" target="17" />
+      <module name="openai-streaming-response" target="17" />
+      <module name="orchestrator-workers" target="17" />
+      <module name="parallelization-workflow" target="17" />
+      <module name="poi-document-reader" target="17" />
+      <module name="prompt-engineering-patterns" target="17" />
+      <module name="rag-with-kotlin" target="17" />
+      <module name="routing-workflow" target="17" />
+      <module name="spring-ai-alibaba-autoconfigure" target="17" />
+      <module name="spring-ai-alibaba-manul-mcp-example" target="1.5" />
+      <module name="spring-ai-alibaba-nacos-example" target="17" />
+      <module name="spring-ai-alibaba-openmanus" target="17" />
+      <module name="spring-ai-alibaba-starter" target="17" />
+      <module name="spring-ai-autoconfigure-model-chat-memory-cassandra" target="17" />
+      <module name="spring-ai-autoconfigure-model-chat-memory-jdbc" target="17" />
+      <module name="spring-ai-autoconfigure-model-chat-memory-neo4j" target="17" />
+      <module name="spring-ai-autoconfigure-model-moonshot" target="17" />
+      <module name="spring-ai-autoconfigure-model-qianfan" target="17" />
+      <module name="spring-ai-autoconfigure-model-watsonx-ai" target="17" />
+      <module name="spring-ai-autoconfigure-vector-store-hanadb" target="17" />
+      <module name="spring-ai-examples" target="1.5" />
+      <module name="spring-ai-examples-parent" target="1.5" />
+      <module name="spring-ai-java-function-callback" target="17" />
+      <module name="spring-ai-model-chat-memory-cassandra" target="17" />
+      <module name="spring-ai-model-chat-memory-jdbc" target="17" />
+      <module name="spring-ai-model-chat-memory-neo4j" target="17" />
+      <module name="spring-ai-moonshot" target="17" />
+      <module name="spring-ai-petclinic" target="17" />
+      <module name="spring-ai-qianfan" target="17" />
+      <module name="spring-ai-rag-labour-law" target="21" />
+      <module name="spring-ai-starter-model-chat-memory-cassandra" target="17" />
+      <module name="spring-ai-starter-model-chat-memory-jdbc" target="17" />
+      <module name="spring-ai-starter-model-chat-memory-neo4j" target="17" />
+      <module name="spring-ai-starter-model-moonshot" target="17" />
+      <module name="spring-ai-starter-model-qianfan" target="17" />
+      <module name="spring-ai-starter-model-watsonx-ai" target="17" />
+      <module name="spring-ai-starter-vector-store-hanadb" target="17" />
+      <module name="spring-ai-watsonx-ai" target="17" />
+      <module name="spring-config-agent-server" target="24" />
+      <module name="spring-config-server" target="24" />
+      <module name="spring-petclinic-ai" target="17" />
+      <module name="tencent-cos-document-reader" target="17" />
+      <module name="youtube-document-reader" target="17" />
+      <module name="yuque-document-reader" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ai-mcp-brave" options="-parameters" />
+      <module name="ai-mcp-brave-chatbot" options="-parameters" />
+      <module name="ai-mcp-brave-starter" options="-parameters" />
+      <module name="ai-mcp-fileserver" options="" />
+      <module name="ai-mcp-fileserver (1)" options="-parameters" />
+      <module name="ai-mcp-fileserver (2)" options="-parameters" />
+      <module name="ai-mcp-sqlite" options="-parameters" />
+      <module name="ai-mcp-sqlite-chatbot" options="-parameters" />
+      <module name="ai-mdp-sqlite" options="" />
+      <module name="ai-mdp-sqlite-chatbot" options="" />
+      <module name="ai-openai-helloworld" options="-parameters" />
+      <module name="ai-openai-reflection-example" options="-parameters" />
+      <module name="aiz-mcp-server" options="-parameters" />
+      <module name="ark-multi-model" options="" />
+      <module name="arxiv-document-reader" options="-parameters" />
+      <module name="bailian-agent" options="" />
+      <module name="bailian-rag-knowledge" options="" />
+      <module name="bilibili-document-reader" options="-parameters" />
+      <module name="chain-workflow" options="-parameters" />
+      <module name="chatgpt-data-document-reader" options="-parameters" />
+      <module name="dashscope-audio" options="" />
+      <module name="dashscope-chat" options="" />
+      <module name="dashscope-chat-client" options="-parameters" />
+      <module name="dashscope-chat-model" options="-parameters" />
+      <module name="dashscope-image" options="" />
+      <module name="dashscope-multi-model" options="" />
+      <module name="deepseek-chat" options="" />
+      <module name="deepseek-chat-client" options="-parameters" />
+      <module name="deepseek-chat-model" options="-parameters" />
+      <module name="document-parser-apache-pdfbox" options="-parameters" />
+      <module name="document-parser-bibtex" options="-parameters" />
+      <module name="document-parser-bshtml" options="-parameters" />
+      <module name="document-parser-directory" options="-parameters" />
+      <module name="document-parser-markdown" options="-parameters" />
+      <module name="document-parser-multi-modality" options="-parameters" />
+      <module name="document-parser-pdf-tables" options="-parameters" />
+      <module name="document-parser-tika" options="-parameters" />
+      <module name="email-document-reader" options="-parameters" />
+      <module name="es-document-reader" options="-parameters" />
+      <module name="evaluator-optimizer" options="-parameters" />
+      <module name="feishu-document-reader" options="-parameters" />
+      <module name="gitbook-document-reader" options="-parameters" />
+      <module name="github-document-reader" options="-parameters" />
+      <module name="gitlab-document-reader" options="-parameters" />
+      <module name="gpt-repo-document-reader" options="-parameters" />
+      <module name="huggingface-fs-document-reader" options="-parameters" />
+      <module name="kotlin-function-callback" options="-parameters" />
+      <module name="kotlin-hello-world" options="-parameters" />
+      <module name="mbox-document-reader" options="-parameters" />
+      <module name="mcp-annotations-server" options="-parameters" />
+      <module name="mcp-client-starter" options="-parameters" />
+      <module name="mcp-sampling-client" options="-parameters" />
+      <module name="mcp-sampling-weather-server" options="-parameters" />
+      <module name="mcp-server-starter" options="-parameters" />
+      <module name="mcp-servlet-server" options="-parameters" />
+      <module name="mcp-starter-default-client" options="-parameters" />
+      <module name="mcp-starter-webflux-client" options="-parameters" />
+      <module name="mcp-weather-server" options="-parameters" />
+      <module name="mcp-weather-starter-webflux-server" options="-parameters" />
+      <module name="mcp-weather-starter-webmvc-oauth2-server" options="-parameters" />
+      <module name="mcp-weather-starter-webmvc-server" options="-parameters" />
+      <module name="mcp-weather-stdio-server" options="-parameters" />
+      <module name="mcp-webflux-server" options="-parameters" />
+      <module name="mcp-webflux-server-starter" options="-parameters" />
+      <module name="mcp-webmvc-server" options="-parameters" />
+      <module name="module-rag" options="" />
+      <module name="mongodb-document-reader" options="-parameters" />
+      <module name="moonshot-chat" options="" />
+      <module name="moonshot-chat-client" options="-parameters" />
+      <module name="moonshot-chat-model" options="-parameters" />
+      <module name="mysql-document-reader" options="-parameters" />
+      <module name="notion-document-reader" options="-parameters" />
+      <module name="observability-example" options="" />
+      <module name="observationhandler-example" options="" />
+      <module name="obsidian-document-reader" options="-parameters" />
+      <module name="ollama-chat" options="" />
+      <module name="ollama-chat-client" options="-parameters" />
+      <module name="ollama-chat-model" options="-parameters" />
+      <module name="ollama-deepseek-chat" options="-parameters" />
+      <module name="ollama-deepseek-chat-client" options="-parameters" />
+      <module name="ollama-deepseek-chat-model" options="-parameters" />
+      <module name="onenote-document-reader" options="-parameters" />
+      <module name="openai-chat" options="" />
+      <module name="openai-chat-client" options="-parameters" />
+      <module name="openai-chat-model" options="-parameters" />
+      <module name="openai-image" options="" />
+      <module name="openai-streaming-response" options="-parameters" />
+      <module name="orchestrator-workers" options="-parameters" />
+      <module name="parallelization-workflow" options="-parameters" />
+      <module name="playground-flight-booking" options="" />
+      <module name="poi-document-reader" options="-parameters" />
+      <module name="prompt-engineering-patterns" options="-parameters" />
+      <module name="rag-example" options="-parameters" />
+      <module name="rag-milvus-example" options="" />
+      <module name="rag-pgvector-example" options="" />
+      <module name="rag-with-kotlin" options="-parameters" />
+      <module name="routing-workflow" options="-parameters" />
+      <module name="spring-ai" options="-parameters" />
+      <module name="spring-ai-alibaba" options="" />
+      <module name="spring-ai-alibaba-agent-example" options="" />
+      <module name="spring-ai-alibaba-analyticdb-store" options="-parameters" />
+      <module name="spring-ai-alibaba-audio-example" options="" />
+      <module name="spring-ai-alibaba-autoconfigure" options="" />
+      <module name="spring-ai-alibaba-chat-example" options="" />
+      <module name="spring-ai-alibaba-core" options="" />
+      <module name="spring-ai-alibaba-deepresearch" options="-parameters" />
+      <module name="spring-ai-alibaba-examples" options="" />
+      <module name="spring-ai-alibaba-function-calling-example" options="-parameters" />
+      <module name="spring-ai-alibaba-graph" options="" />
+      <module name="spring-ai-alibaba-graph-core" options="" />
+      <module name="spring-ai-alibaba-graph-studio" options="" />
+      <module name="spring-ai-alibaba-helloworld" options="" />
+      <module name="spring-ai-alibaba-image-example" options="" />
+      <module name="spring-ai-alibaba-integration-example" options="-parameters" />
+      <module name="spring-ai-alibaba-jmanus" options="-parameters" />
+      <module name="spring-ai-alibaba-mcp-example" options="" />
+      <module name="spring-ai-alibaba-more-platform-and-model-example" options="" />
+      <module name="spring-ai-alibaba-multi-model-example" options="" />
+      <module name="spring-ai-alibaba-mysql-memory" options="-parameters" />
+      <module name="spring-ai-alibaba-nacos-example" options="" />
+      <module name="spring-ai-alibaba-observability-example" options="" />
+      <module name="spring-ai-alibaba-opensearch-store" options="-parameters" />
+      <module name="spring-ai-alibaba-prompt-example" options="" />
+      <module name="spring-ai-alibaba-rag-example" options="" />
+      <module name="spring-ai-alibaba-redis-memory" options="" />
+      <module name="spring-ai-alibaba-sql-example" options="" />
+      <module name="spring-ai-alibaba-starter" options="" />
+      <module name="spring-ai-alibaba-starter-document-parser-apache-pdfbox" options="" />
+      <module name="spring-ai-alibaba-starter-document-parser-bibtex" options="" />
+      <module name="spring-ai-alibaba-starter-document-parser-bshtml" options="" />
+      <module name="spring-ai-alibaba-starter-document-parser-directory" options="" />
+      <module name="spring-ai-alibaba-starter-document-parser-markdown" options="" />
+      <module name="spring-ai-alibaba-starter-document-parser-multi-modality" options="" />
+      <module name="spring-ai-alibaba-starter-document-parser-pdf-tables" options="" />
+      <module name="spring-ai-alibaba-starter-document-parser-tika" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-arxiv" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-bilibili" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-chatgpt-data" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-elasticsearch" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-email" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-encent-cos" options="-parameters" />
+      <module name="spring-ai-alibaba-starter-document-reader-gitbook" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-github" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-gitlab" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-gpt-repo" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-huggingface-fs" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-larksuite" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-mbox" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-mongodb" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-mysql" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-notion" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-obsidian" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-onenote" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-poi" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-youtube" options="" />
+      <module name="spring-ai-alibaba-starter-document-reader-yuque" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-alitranslate" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-amap" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-baidumap" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-baidusearch" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-baidutranslate" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-bingsearch" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-crawler" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-dingtalk" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-duckduckgo" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-githubtoolkit" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-googletranslate" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-jsonprocessor" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-kuaidi100" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-larksuite" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-microsofttranslate" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-regex" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-serpapi" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-sinanews" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-time" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-toutiaonews" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-weather" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-youdaotranslate" options="" />
+      <module name="spring-ai-alibaba-starter-tool-calling-yuque" options="" />
+      <module name="spring-ai-alibaba-structured-example" options="" />
+      <module name="spring-ai-alibaba-studio" options="" />
+      <module name="spring-ai-alibaba-tair-store" options="-parameters" />
+      <module name="spring-ai-alibaba-text-classification-example" options="" />
+      <module name="spring-ai-alibaba-text-summarizer-example" options="" />
+      <module name="spring-ai-anthropic" options="" />
+      <module name="spring-ai-anthropic-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-aws-opensearch-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-azure-cosmos-db-store" options="" />
+      <module name="spring-ai-azure-cosmos-db-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-azure-openai" options="" />
+      <module name="spring-ai-azure-openai-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-azure-store" options="" />
+      <module name="spring-ai-azure-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-bedrock" options="" />
+      <module name="spring-ai-bedrock-ai-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-bedrock-converse" options="" />
+      <module name="spring-ai-bedrock-converse-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-bom" options="" />
+      <module name="spring-ai-cassandra-store" options="" />
+      <module name="spring-ai-cassandra-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-chroma-store" options="" />
+      <module name="spring-ai-chroma-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-coherence-store" options="" />
+      <module name="spring-ai-coherence-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-core" options="-parameters" />
+      <module name="spring-ai-docs" options="" />
+      <module name="spring-ai-elasticsearch-store" options="" />
+      <module name="spring-ai-elasticsearch-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-examples-documentgpt" options="-parameters" />
+      <module name="spring-ai-examples-petclinic" options="-parameters" />
+      <module name="spring-ai-examples-vaadin" options="-parameters" />
+      <module name="spring-ai-gemfire-store" options="" />
+      <module name="spring-ai-gemfire-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-hanadb-store" options="" />
+      <module name="spring-ai-hanadb-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-huggingface" options="" />
+      <module name="spring-ai-huggingface-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-integration-tests" options="" />
+      <module name="spring-ai-java-function-callback" options="-parameters" />
+      <module name="spring-ai-jsoup-document-reader" options="" />
+      <module name="spring-ai-mariadb-store" options="" />
+      <module name="spring-ai-mariadb-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-markdown-document-reader" options="" />
+      <module name="spring-ai-mcp" options="" />
+      <module name="spring-ai-mcp-client-spring-boot-autoconfigure" options="-parameters" />
+      <module name="spring-ai-mcp-client-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-mcp-client-webflux-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-mcp-server-spring-boot-autoconfigure" options="-parameters" />
+      <module name="spring-ai-mcp-server-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-mcp-server-webflux-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-mcp-server-webmvc-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-milvus-store" options="" />
+      <module name="spring-ai-milvus-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-minimax" options="" />
+      <module name="spring-ai-minimax-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-mistral-ai" options="" />
+      <module name="spring-ai-mistral-ai-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-mongodb-atlas-store" options="" />
+      <module name="spring-ai-mongodb-atlas-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-moonshot" options="" />
+      <module name="spring-ai-moonshot-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-neo4j-store" options="" />
+      <module name="spring-ai-neo4j-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-oci-genai" options="" />
+      <module name="spring-ai-oci-genai-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-ollama" options="" />
+      <module name="spring-ai-ollama-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-openai" options="" />
+      <module name="spring-ai-openai-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-opensearch-store" options="" />
+      <module name="spring-ai-opensearch-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-oracle-store" options="" />
+      <module name="spring-ai-oracle-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-pdf-document-reader" options="" />
+      <module name="spring-ai-petclinic" options="-parameters" />
+      <module name="spring-ai-pgvector-store" options="" />
+      <module name="spring-ai-pgvector-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-pinecone-store" options="" />
+      <module name="spring-ai-pinecone-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-postgresml" options="" />
+      <module name="spring-ai-postgresml-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-qdrant-store" options="" />
+      <module name="spring-ai-qdrant-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-qianfan" options="" />
+      <module name="spring-ai-qianfan-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-redis-store" options="" />
+      <module name="spring-ai-redis-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-retry" options="" />
+      <module name="spring-ai-spring-boot-autoconfigure" options="-parameters" />
+      <module name="spring-ai-spring-boot-docker-compose" options="" />
+      <module name="spring-ai-spring-boot-testcontainers" options="" />
+      <module name="spring-ai-spring-cloud-bindings" options="" />
+      <module name="spring-ai-stability-ai" options="" />
+      <module name="spring-ai-stability-ai-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-test" options="" />
+      <module name="spring-ai-tika-document-reader" options="" />
+      <module name="spring-ai-transformers" options="" />
+      <module name="spring-ai-transformers-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-typesense-store" options="" />
+      <module name="spring-ai-typesense-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-vertex-ai-embedding" options="" />
+      <module name="spring-ai-vertex-ai-embedding-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-vertex-ai-gemini" options="" />
+      <module name="spring-ai-vertex-ai-gemini-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-watsonx-ai" options="" />
+      <module name="spring-ai-watsonx-ai-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-weaviate-store" options="" />
+      <module name="spring-ai-weaviate-store-spring-boot-autoconfigure" options="-parameters" />
+      <module name="spring-ai-weaviate-store-spring-boot-starter" options="-parameters" />
+      <module name="spring-ai-zhipuai" options="" />
+      <module name="spring-ai-zhipuai-spring-boot-starter" options="-parameters" />
+      <module name="spring-config-agent-server" options="-parameters" />
+      <module name="spring-config-server" options="-parameters" />
+      <module name="spring-petclinic-ai" options="-parameters" />
+      <module name="tencent-cos-document-reader" options="-parameters" />
+      <module name="youtube-document-reader" options="-parameters" />
+      <module name="yuque-document-reader" options="-parameters" />
+      <module name="zhipuai-chat" options="" />
+      <module name="zhipuai-chat-client" options="-parameters" />
+      <module name="zhipuai-chat-model" options="-parameters" />
+    </option>
+  </component>
+</project>
